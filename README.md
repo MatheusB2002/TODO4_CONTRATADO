@@ -49,11 +49,11 @@ Nessa função ainda podes escolher se quer saber quem são os aprovados e seus 
 1º - Clone:
 git clone https://github.com/MatheusB2002/TODO4_CONTRATADO.git
 
-2º - Inicie o arquivo "TODO3.py" com a IDE que você utiliza.
+2º - Inicie o arquivo "TODO4.py" com a IDE que você utiliza.
 
 3º - Execute o arquivo e interaja com o programa atravez do terminal.
 
-4º - Se quiser ler Currículos em .txt, coloque os arquivos de txt no mesmo diretório do programa e digite o nome exato do arquivo com o ".txt" quando o código pedir em seu fluxo.
+4º - Se quiser ler Currículos em .txt (Deixei um de exemplo para usar no programa, mas pode usar qualquer um), coloque os arquivos de txt no mesmo diretório do programa e digite o nome exato do arquivo com o ".txt" quando o código pedir em seu fluxo.
 
 
 ### 📱 **Redes Sociais:**
