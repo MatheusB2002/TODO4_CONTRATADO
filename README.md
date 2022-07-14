@@ -7,8 +7,8 @@ Desenvolver um projeto (usando dicionários) que vai gravar a quantidade de curr
 
 Usando as palavras chaves a seguir para cada vaga. Meu código deve perguntar: quantos candidatos serão cadastrados; qual o nome do candidato; para qual vaga está se inscrevendo; e o resumo do currículo do participante;
 
-Vaga Analista de dados com as palavras chaves: Python, PowerBI, SQL, Boa comunicação
-Vaga Cientista de dados com as palavras chaves: Python, Banco de dados, Machine Learning, Resolução De Problemas, Estatística
+   - Vaga Analista de dados com as palavras chaves: Python, PowerBI, SQL, Boa comunicação
+   - Vaga Cientista de dados com as palavras chaves: Python, Banco de dados, Machine Learning, Resolução De Problemas, Estatística
 
 Ao final, meu código deve mostrar como saída: quantas pessoas estão inscritas em cada vaga; e quantas pessoas tem o resumo com as palavras que estamos buscando.
 
