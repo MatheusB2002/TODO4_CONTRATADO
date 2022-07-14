@@ -1,0 +1,33 @@
+CURRICULO DE EXEMPLO!
+
+
+Matheus Barbosa Almeida 
+Brasileiro, 20 anos 
+       Nova Iguaçu - Rio De Janeiro 
+E-mail: matheus1416.java@gmai.com
+  LinkedIn: inkedin.com/in/matheus-barbosa-almeida-0831a8230
+GitHub: https://github.com/MatheusB2002/Mathuesbarbosa20.git
+Telefone: (21) 96703-7311
+                                         OBJETIVO: Analista de dados Jr.
+RESUMO DE QUALIFICAÇÕES
+Após anos de participação em um curso preparatório que criou em mim uma ótima capacidade de interpretação e resolução de problemas realizando diversos concursos públicos decidi juntar essa minha habilidade de interpretar com o imenso gosto pela tecnologia e o gostar de aprender. Juntando essas duas áreas da minha personalidade entrei no curso da Resilia Educação de Data analytics para aprender a lidar com grandes volumes de dados e apresentar ótimos insights. 
+FORMAÇÃO 
+Preparatório - Curso primeira opção - 3 anos 
+Absorvendo conteúdos muito importantes para a resolução de problemas/questões matemáticos, de diversas áreas das ciências humanas e exatas.
+Data Analytics - Resilia - em andamento
+Desenvolvendo habilidades em Phyton, SQL Server, Tableau, Power BI, Matplotlib e trabalho em equipe, postura profissional, pensamento lógico.
+Nome do tema do curso – Nome da Instituição: Resilia Educação Data Analytics - Carga Horária: 44h Hoje.
+ Idiomas: Inglês e Espanhol intermediários 
+Conhecimento avançado das ferramentas office: Word intermediário
+Conhecimento em Python 
+FORMAÇÃO ACADÊMICA 
+Ensino Médio completo - fevereiro/2007 à dezembro/2020
+EXPERIÊNCIA PROFISSIONAL
+Participação de projeto no módulo 1 da Resília Educação.
+Cargo: Analista colaborador 1 
+PROJETOS
+Desenvolvimento de um bot que visa o atendimento ao cliente. Ficando responsável pela entrada saída de dados do bot da empresa nomeada de Pitch Security pelo squad. Atuando no código elaborando uma forma de entrada de dados e informações dos clientes e a esperada resposta para o problema recebido de cada um deles. 
+(link do projeto no github ainda não disponível)
+INFORMAÇÕES COMPLEMENTARES
+Livre para qualquer horário remoto ou presencial se for no Estado de moradia.
+boa comunicação
