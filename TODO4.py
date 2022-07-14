@@ -9,15 +9,14 @@ aprovadosCientista = {}
 
 def escolha():
     
-    print(' '*8,'\nBem vindo ao sistema! \n[1] Analisar curriculos já computados \n[2] Adicionar curriculos')
+    print(' '*8,'\nBem vindo ao sistema! \n[1] Analisar currículos já computados \n[2] Adicionar currículos')
     analiseOuAdd = int(input('\nColoque o numero correspondente ao que quer: '))
 
     if analiseOuAdd == 1:
         print('Ok mandarei o(a) Sr(a). direto para a escolha final.')
 
     elif analiseOuAdd == 2:
-        print('\n[1] Ler um arquivo com Curriculo existente.\n[2] Criar um resumo.')
-        # currOuCand = int(input('\nColoque o numero correspondente ao que quer: '))
+        print('\n[1] Ler um arquivo com Currículo existente.\n[2] Criar um resumo.')
         escolhamenu2()
             
     else:
@@ -35,14 +34,14 @@ def escolha():
 
 
 def escolhamenu2():
-    
+
         currOuCand = int(input('\nColoque o numero correspondente ao que quer: '))
         if currOuCand == 1:
             count = 1
-            print(' '*38, '\nATENÇÂO! \nPara que seja possivel ler o arquivo, ele deve estar no mesmo diretório desse programa!')
+            print(' '*38, '\nATENÇÂO! \nPara que seja possivel ler o arquivo txt, ele deve estar no mesmo diretório desse programa!')
             qtdAdd= int(input('Adicionar quantos curriculos? '))
             while count <= qtdAdd:
-                print(f'candidato {count}')
+                print(f'Candidato {count}')
                 addCurriculo()
                 count += 1
 
@@ -62,7 +61,7 @@ def escolhamenu2():
 def addCurriculo():
 
     palavrasChaves = []
-    print('[1] Analista\n[2] Cientista \n')
+    print('\n Para qual vaga?\n \n[1] Analista\n[2] Cientista \n')
     tipo = int(input('Digite o número correspondente: '))
     nomeCand = input('Nome do candidato: ')
     nomePasta = input('Digite o nome exato da pasta com o ".txt": ')
@@ -92,7 +91,7 @@ def addcandidatoSistema():
     qtdPalavras = int(input('Quantas palavras deseja adicionar ao resumo? '))
 
     while count <= qtdPalavras:
-        palavrasChaves.append(input('Adicione palavra: ').lower())
+        palavrasChaves.append(input('Adicione palavra ao resumo: ').lower())
         count += 1
     if tipo == 1:
         participantesAn[nomeCand] = palavrasChaves
@@ -128,15 +127,15 @@ def divulgação():
             aprovadosAnalista[i] = str(aprovadosAnalista[i]).strip('[]')
             print(f'{i} com as palavras {aprovadosAnalista[i]}.')
         print('\nCientistas de dados aprovados:\n ')
-        
+#         deixei um com o método .strip('[]') e o outro com slice [1:-1] para poder lembrar que há formas distintas de fazer 
         for i in aprovadosCientista:
             aprovadosCientista[i] = str(aprovadosCientista[i])[1:-1]
             print(f'{i} com as palavras {aprovadosCientista[i]}.')
     elif desejo == 2:
         print('ok, saindo do sistema.')
         exit()
-            
-
+ 
+           
 
 escolha()
 divulgação()
